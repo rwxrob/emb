@@ -11,4 +11,4 @@ embsample cat some.txt
 embsample cat '*.md'
 ```
 
-*See the [Bonzai Book](https://github.com/rwxrob/bonzai) for more.*
+*See the [Bonzai Book](https://github.com/rwxrob/book-bonzai) for more.*
